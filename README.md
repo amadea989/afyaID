@@ -1,4 +1,3 @@
-# afyaID
 # AfyaID
 
 > **National Digital Health Infrastructure Platform**  
