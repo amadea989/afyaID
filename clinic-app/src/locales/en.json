@@ -1,0 +1,19 @@
+{
+    "app": {
+        "title": "AfyaID — Clinic Portal",
+        "search": "Enter NIDA Number",
+        "search_btn": "Look Up Patient",
+        "not_found": "No patient found with that NIDA number",
+        "visits": "Visit History",
+        "no_visits": "No visits recorded yet",
+        "new_visit": "Record New Visit",
+        "complaint": "Chief Complaint",
+        "diagnosis": "Diagnosis",
+        "treatment": "Treatment",
+        "notes": "Notes",
+        "save": "Save Visit",
+        "saved": "Visit saved successfully",
+        "offline": "You are offline — data will sync when connected",
+        "online": "Connected"
+    }
+}

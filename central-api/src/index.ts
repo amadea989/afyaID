@@ -1,11 +1,13 @@
 import express from 'express';
 import dotenv from 'dotenv';
+import cors from 'cors';
 import patientsRouter from './routes/patients';
 import visitsRouter from './routes/visits';
 
 dotenv.config();
 
 const app = express();
+app.use(cors());
 app.use(express.json());
 
 const PORT = process.env.PORT || 3000;

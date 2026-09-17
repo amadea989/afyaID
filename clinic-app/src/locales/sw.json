@@ -1,0 +1,19 @@
+{
+    "app": {
+        "title": "AfyaID — Mlango wa Kliniki",
+        "search": "Weka Nambari ya NIDA",
+        "search_btn": "Tafuta Mgonjwa",
+        "not_found": "Hakuna mgonjwa aliyepatikana",
+        "visits": "Historia ya Ziara",
+        "no_visits": "Hakuna ziara zilizorekodiwa",
+        "new_visit": "Rekodi Ziara Mpya",
+        "complaint": "Malalamiko Makuu",
+        "diagnosis": "Utambuzi",
+        "treatment": "Matibabu",
+        "notes": "Maelezo",
+        "save": "Hifadhi Ziara",
+        "saved": "Ziara imehifadhiwa",
+        "offline": "Huna mtandao — data itasawazishwa unapounganishwa",
+        "online": "Imeunganishwa"
+    }
+}
